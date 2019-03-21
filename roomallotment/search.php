@@ -26,7 +26,7 @@
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 <!--===============================================================================================-->
 </head>
-<body>
+<body align="center">
     <h1 style="font-family:verdana;">Welcome to the Official Roomie search portal of VIT</h1>
     <div style="width:600px; margin: 0 auto;" >
         <br/>

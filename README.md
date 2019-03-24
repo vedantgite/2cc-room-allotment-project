@@ -1,6 +1,8 @@
 # 2cc-room-allotment-project
 This project is a room allotment project made by  Vedant Dipak Gite (17BME0154) from VIT University for VIT Men's Hostel.
 
+PROJECT PDF IS IN ROOM ALLOTMENT FOLDER
+
 Instructions to make the project work on php mysql localhost!!!!
 
 Requirements: phpmyadmin,xampp
